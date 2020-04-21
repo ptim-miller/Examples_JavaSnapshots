@@ -1,8 +1,6 @@
 // All rights reserved (c) 2020 P. Tim Miller
 // For academic use only
 
-package edu.myschool.java;
-
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
